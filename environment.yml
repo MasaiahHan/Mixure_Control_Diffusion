@@ -1,0 +1,5 @@
+name: mixture_of_diffusers
+dependencies:
+  - pip=22.1.*
+  - pip:
+      - -r requirements.txt
