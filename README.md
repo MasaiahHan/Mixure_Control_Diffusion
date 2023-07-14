@@ -17,6 +17,7 @@ With MixtureofDiffusers Controlnet version, you can generate an unlimited size i
 - [x] add functions which is suitable for different width and height of region
 - [x] support id controlnet scale in paras
 - [ ] integrate tomesd to accelerate speed of generation 
+- [ ] integrate guess mode or other controlnet latest feature  
 - [ ]  resize image so that its width and height the same as region  
   
     
